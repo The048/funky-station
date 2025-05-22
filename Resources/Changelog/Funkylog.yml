@@ -2756,3 +2756,94 @@ Entries:
         around the waist. 
   id: 341
   time: '2025-05-15T18:37:05.0000000+00:00'
+- author: ' JoulesBerg'
+  changes:
+    - type: Add
+      message: >-
+        Added Funds Allocation and department request computers, biomass
+        reclaimer, biotech medfab, crystalizer, and bluespace distributor to
+        elkridge.
+  id: 342
+  time: '2025-05-16T02:25:34.0000000+00:00'
+- author: Quantus
+  changes:
+    - type: Tweak
+      message: Removed security time requirement for Changeling.
+  id: 343
+  time: '2025-05-16T02:32:30.0000000+00:00'
+- author: ' oLykos'
+  changes:
+    - type: Add
+      message: >-
+        Moths have a new "Soft Eyes" marking option with accompanying
+        heterochromia
+  id: 344
+  time: '2025-05-17T01:21:33.0000000+00:00'
+- author: UristMcWiki
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Syndie rework not allowing surplus crates to contain WarOps
+        content.
+  id: 345
+  time: '2025-05-18T01:48:00.0000000+00:00'
+- author: marc-pelletier
+  changes:
+    - type: Fix
+      message: >-
+        Hydrogen fire reactions have been slightly reworked to more closely
+        follow original mechanics
+  id: 346
+  time: '2025-05-18T19:24:57.0000000+00:00'
+- author: marc-pelletier
+  changes:
+    - type: Fix
+      message: The crystallizer's max input rate is now capped to 250 mol/s
+  id: 347
+  time: '2025-05-18T22:35:30.0000000+00:00'
+- author: mkanke-real
+  changes:
+    - type: Add
+      message: >-
+        Request computers, Silo Relay, Medcial Biofab, Atmos Crystalizer and Gas
+        Vendors added to origin.
+  id: 348
+  time: '2025-05-19T16:14:58.0000000+00:00'
+- author: mkanke-real
+  changes:
+    - type: Tweak
+      message: Boosted the size of Bagel's atmos playground
+    - type: Fix
+      message: Relinked Bagel Gas Vendors to Gas Sender
+  id: 349
+  time: '2025-05-21T16:23:58.0000000+00:00'
+- author: ' GtheGlorious'
+  changes:
+    - type: Tweak
+      message: Revamped Roingus Textures
+  id: 350
+  time: '2025-05-22T04:51:47.0000000+00:00'
+- author: misterghast
+  changes:
+    - type: Add
+      message: Ported over the Holo-flaregun from Frontier Station
+  id: 351
+  time: '2025-05-22T06:15:17.0000000+00:00'
+- author: ' AfterLite, sowelipililimute, deltanedas'
+  changes:
+    - type: Tweak
+      message: The Cosmic Cult has been refactored and rebalanced!
+    - type: Tweak
+      message: >-
+        Cosmic Cult conversion is no longer tied to the metabolism of holy
+        water, please see the Guidebook tab on deconversion.
+    - type: Remove
+      message: The Lone Astral Ascendant has been removed from the midround pool.
+    - type: Add
+      message: >-
+        Cosmic Cultists now gain a special, one-time use ability while
+        Empowered.
+    - type: Fix
+      message: 'Various Cosmic Cult fixes, yay! '
+  id: 352
+  time: '2025-05-22T06:16:20.0000000+00:00'
