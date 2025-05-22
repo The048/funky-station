@@ -143,6 +143,13 @@
   components:
   - type: BallisticAmmoProvider
     proto: CartridgePistolUranium
+  -type: Sprite
+   layers:
+   - state: uranium
+      map: ["enum.GunVisualLayers.Red"]
+   - state: mag-unshaded-1
+     map: ["enum.GunVisualLayers.MagUnshaded"]
+     shader: unshaded
 
 - type: entity
   id: MagazinePistolSubMachineGunTopMountedEmpty

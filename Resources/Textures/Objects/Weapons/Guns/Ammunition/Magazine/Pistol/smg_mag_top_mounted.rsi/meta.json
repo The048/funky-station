@@ -24,6 +24,12 @@
         },
         {
             "name": "mag-unshaded-5"
+        },
+        {
+            "name": "red"
+        },
+        {
+            "name": "uranium"
         }
     ]
 }
