@@ -22,8 +22,8 @@
   id: SyndicateOperativeGearCivilian
   equipment:
     jumpsuit: ClothingUniformJumpsuitSyndieFormal
-    back: ClothingBackpackDuffelSyndicate
-    shoes: ClothingShoesBootsCombat
+    back: ClothingBackpack
+    shoes: ClothingShoesColorBlack
     gloves: ClothingHandsGlovesColorBlack
     id: SyndiPDA
     ears: ClothingHeadsetAltSyndicate
