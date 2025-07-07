@@ -25,6 +25,7 @@
     CartridgeEmergency: 5
     CartridgeBrute: 3
     CartridgeBurn: 3
+    autoInjectorCartridgeCaseSoft: 3
   # security officers need to follow a diet regimen!
   contrabandInventory:
     WeaponMeleeNeedle: 2
